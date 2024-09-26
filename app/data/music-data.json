@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Mirage melody",
+    "genre": "Cinematic",
+    "url": "https://drive.google.com/uc?export=download&id=1YF85Lhq7-eUhCi62lMK6sJrd7rBGBCo6"
+  },
+  {
+    "id": 2,
+    "title": "Temple of treasures",
+    "genre": "Cinematic",
+    "url": "https://drive.google.com/uc?export=download&id=11GiOy2vaVWe7GFXnvCOrO-XSrzPv2H6B"
+  },
+  {
+    "id": 3,
+    "title": "Sunlit Souk",
+    "genre": "Calm",
+    "url": "https://drive.google.com/uc?export=download&id=1kxdd5c4LIDwykiTP61g8Ipz0_bqAZ7fI"
+  },
+  {
+    "id": 4,
+    "title": "Jasmine Whipers",
+    "genre": "Cinematic",
+    "url": "https://drive.google.com/uc?export=download&id=1EYm_54EM0vtaj2oXNpTZW03Qvpp05MM3"
+  },
+  {
+    "id": 5,
+    "title": "Veil of mysteries",
+    "genre": "Cinematic",
+    "url": "https://drive.google.com/uc?export=download&id=1-6wKx5_GKr1RCE-WJAli0T_ZNc0GbX1c"
+  },
+  {
+    "id": 6,
+    "title": "Echoes of emir",
+    "genre": "Calm",
+    "url": "https://drive.google.com/uc?export=download&id=1ehPltRzUj2t9cFQxZn4dF6UWp7sJu5Pp"
+  },
+  {
+    "id": 7,
+    "title": "Bazaar Ballad",
+    "genre": "Instrumental",
+    "url": "https://drive.google.com/uc?export=download&id=1BwEl_Q1Ks5ba2yxGmXnxQW4HsWxL2bXd"
+  }
+]
