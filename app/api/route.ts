@@ -1,6 +1,6 @@
 import { promises as fs } from 'fs';
 import path from 'path';
-import { NextRequest, NextResponse } from 'next/server';
+import { NextResponse } from 'next/server';
 
 export async function GET() {
   const jsonFilePath = path.join(process.cwd(), 'app/data', 'music-data.json');
@@ -10,7 +10,7 @@ export async function GET() {
     const musicData = JSON.parse(fileContents);
 
     return NextResponse.json(musicData);
-  } catch (error) {
+  } catch {
     return NextResponse.json({ error: 'Failed to load music data' }, { status: 500 });
   }
 }
